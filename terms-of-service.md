@@ -46,7 +46,7 @@ The operator can change these terms. The current version is at this page, with i
 
 ## Privacy
 
-The CS2 Update Announcer Privacy Policy, at https://github.com/brutaldonahowdy/cs2-patchnotes-docs/blob/main/PRIVACY.md, describes the data the app uses.
+The CS2 Update Announcer Privacy Policy, at https://github.com/brutaldonahowdy/cs2-patchnotes-docs/blob/main/privacy-policy.md, describes the data the app uses.
 
 ## Contact
 
